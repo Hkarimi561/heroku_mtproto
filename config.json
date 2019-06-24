@@ -1,5 +1,5 @@
 
 {
-  "port":6969,
+  "port":80,
   "secret":"b0cbcef5a486d9636472ac27f8e11a9d"
 }
